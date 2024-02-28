@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/saulgil1/LearningGo/matriz"
-	"github.com/saulgil1/LearningGo/sumatorias"
+	"github.com/saulgil1/ExercisesGo/matriz"
+	"github.com/saulgil1/ExercisesGo/sumatorias"
 )
 
 func main() {
